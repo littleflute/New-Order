@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Fine Time.mp3";		
+f[2]	= "02 All the Way.mp3";		
+f[3]	= "03 Love Less.mp3";		
+f[4]	= "04 Round & Round.mp3";		
+f[5]	= "05 Guilty Partner.mp3";		
+f[6]	= "06 Run.mp3";		
+f[7]	= "07 Mr. Disco.mp3";		
+f[8]	= "08 Vanishing Point.mp3";		
+f[9]	= "09 Dream Attack.mp3";		
