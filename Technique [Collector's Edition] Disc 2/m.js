@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Don't Do It [-][Version].mp3";		
+f[2]	= "02 Fine Line [-][Version].mp3";		
+f[3]	= "03 Round and Round [-][Version].mp3";		
+f[4]	= "04 Best & Marsh [-][Version].mp3";		
+f[5]	= "05 Run 2 [-][Version].mp3";		
+f[6]	= "06 MTO [-][Version].mp3";		
+f[7]	= "07 Fine Time [-][Silk Mix][Version].mp3";		
+f[8]	= "08 Vanishing Point [-][Instrumental][Instrumental][Version].mp3";		
+f[9]	= "09 World in Motion [-][Cabinieri Mix][Calbinieri Mix][Version].mp3";		
